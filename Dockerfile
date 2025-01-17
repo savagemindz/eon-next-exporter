@@ -16,4 +16,4 @@ RUN python3 -m venv /venv/py3 \
 EXPOSE 9101
 
 USER powerstats
-ENTRYPOINT ["/venv/py3/bin/python", "-m", "tplink_powerstats"]
+ENTRYPOINT ["/venv/py3/bin/python", "-m", "eon_next"]
