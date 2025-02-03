@@ -19,7 +19,7 @@ dependencies = [
     "prometheus-client",
     "tzdata",
 ]
-description = "A prometheus exporter module that collects energy monitoring from tplink tapo and kasa devices"
+description = "A prometheus exporter module that collects energy monitoring from EonNext"
 license = {text = "BSD-2-Clause"}
 readme = "README.md"
 requires-python = ">=3.9"
